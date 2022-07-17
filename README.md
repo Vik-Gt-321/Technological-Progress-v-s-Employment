@@ -1,2 +1,2 @@
-# Technological-Progress-v-s-Employment
+# Technological-Progress-v/s-Employment
 Graded Research Project, HS211, IIST
